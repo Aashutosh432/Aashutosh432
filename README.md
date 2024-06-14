@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm <img src="https://github.com/Aashutosh432/Aashutosh432/blob/main/Aashutoash-designer-readmebox.svg" alt="Aashutoash Nangare" /> 😊👌😎</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://github.com/Aashutosh432/Aashutosh432/blob/main/Aashutoash-designer-readmebox.svg" alt="Aashuto
+                               sh Nangare" /> 😊👌😎</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=600&lines=I+am+Designer+and+i+love+to+editing+%26+Animation)](https://git.io/typing-svg)
 
